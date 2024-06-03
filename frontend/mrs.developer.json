@@ -1,0 +1,5 @@
+{
+  "volto-ploneconf2023": {
+    "local": "addons/volto-ploneconf2023/src"
+  }
+}
